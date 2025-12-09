@@ -1,0 +1,9 @@
+Q.1. Create an array in the range of 1 to 20 with values 1.25 apart. Another array contains the log values of the elements in first array.
+a. Plot the two arrays first vs second in a line chart.
+b. In the plot first vs second array, spcify the x-axis (containing first array's values) title as "Random Values" and Y-axis title as "Logarithm Values"
+c. Create a third array that stores the COS values of the first array and then plot both the second line and third array vs first array. the cos values should be plotted with dashdotted line
+d. Chane the marker type as a circle with blue color
+e. Only mark the data points as this : second array data points as blue small diamonds, third array data points as black circle.
+
+
+Q.2 Create a bar chart for different cities and population.

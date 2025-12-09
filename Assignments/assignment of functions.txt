@@ -1,0 +1,4 @@
+WAP to create a function which can return reverse of that number for example (123 will be returned as 321)
+WAP to create a funciton which can check whether a number is a pallindrome or not.
+WAP to create a function which can check whether is string is pallindrome or not
+wap to create a function which can return whether a number is prime or not

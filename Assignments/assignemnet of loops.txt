@@ -1,0 +1,4 @@
+q.1.WAP to check whenther a number is positive, negative  or zero.
+Q.2.WAP to count number of +ve, -Ve and zero out of 10 numbers
+Q.3.WAP to count number of even number and odd number out of 10 numbers
+Q.4.WAP to to print sum of even and odd numbers out of 10 numbers.
